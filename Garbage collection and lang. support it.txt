@@ -1,0 +1,3 @@
+garbage collection : is a form of automatic memory management. The garbage collector attempts to reclaim memory which was allocated by the program, but is no longer referenced; such memory is called garbage.
+
+programming languages that require garbage collection, either as part of the language specification (RPL, Java, C#, D, Go, and most scripting languages)

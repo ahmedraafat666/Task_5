@@ -1,0 +1,43 @@
+two basic ways of computer architecture, and which one is the best :
+
+
+they are Risck and Cisc ...
+
+
+What is RISC?
+
+RISC is designed to perform a smaller number of types of computer instruction. Hence, it can operate at a higher speed. The full form of RISC is Reduced Instruction Set Computers. It is a microprocessor that is designed to perform smaller number of computer instruction so that it can operate at a higher speed.
+RISC instruction sets hold less than 100 instructions and use a fixed instruction format. This method uses a few simple addressing modes that use a register-based instruction. In this compiler development mechanism, LOAD/STORE is the only individual instructions for accessing memory.
+
+
+Advantage of RISC :
+
+.Complex and efficient machine instructions.
+
+.It offers extensive addressing capabilities for memory management.
+
+.Relatively few registers when compared with RISC processors
+It helps you to reduce the instruction set.
+
+.Offers limited addressing schemes for memory operands
+
+
+
+
+==========================================================================
+
+
+What is CISC?
+
+CISC was developed to make compiler development easier and simpler. The full form of CISC is Complex Instruction Set Computer. They are chips that are easy to program that makes efficient use of memory.
+CISC eliminates the need for generating machine instructions to the processor. For example, instead of having to make a compiler, write lengthy machine instructions to calculate a square-root distance, a CISC processor offers a built-in ability to do this.
+
+
+Advantage of CISC : 
+
+.In CISC it is easy to add new commands into the chip without need to 
+change the structure of the instruction set
+
+.This architecture allows you to make efficient use of main memory
+
+.The compiler should not be very complicated, as with the case of CISC. The instruction sets can be written to match the structures of high-level languages.

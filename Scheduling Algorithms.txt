@@ -1,0 +1,9 @@
+Difference between 4 scheduling algorithm :
+
+1. First Come First Serve(FCFS): As the name implies that the jobs are executed on a first come first serve basis. It is a simple algorithm based on FIFO that’s first in first out. The process that comes first in the ready queue can access the CPU first. If the arrival time is less, then the process will get the CPU soon. It can suffer from the convoy effect if the burst time of the first process is the longest among all the jobs.
+
+2. Shortest Job First (SJF): Also known as the shortest job first or shortest job next is a non-preemptive type algorithm that is easy to implement in batch systems and is best in minimizing the waiting time. It follows the strategies where the process that is having the lowest execution time is chosen for the next execution.
+
+3. Priority Scheduling: It is a non-preemptive algorithm that works in batch systems and, each process is assigned with a priority and the process with the highest priority is executed first. This can lead to starvation for other processes.
+
+4. Round Robin(RR): It is a preemptive scheduling algorithm in which each process is given a fixed time called quantum to execute. At this time one process is allowed to execute for a quantum and then preempts and then another process is executed. In this way, there is context switching between processes to save states of these preempted processes.

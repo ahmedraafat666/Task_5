@@ -1,0 +1,37 @@
+Parallel processing Vs Threads  :
+
+
+1. parallel processing :
+
+Parallel processing is a method in computing of running two or more processors (CPUs) to handle separate parts of an overall task Breaking up different parts of a task among multiple processors will help reduce the amount of time to run a program Any system that has more than one CPU can perform parallel processing as well as multi-core processors
+
+In parallel processing, a complex task is split into multiple smaller tasks that are more proportionate in processing requirements, size, and number to the processing units on hand After the division, each processor starts working on their part of the task independently from one another, with the exception of constant communication through the software in order to stay up to date regarding the state of other tasks.
+
+
+---------------------------------------------------------------------- 
+
+
+2. Threads :
+
+Basic unit of CPU utilization
+Flow of control within a process
+A thread includes
+Thread ID
+Program counter
+Register set
+Stack
+Shares resources with other threads within the same
+process
+Text section
+Data section
+Other OS resources (open files, ...)
+
+
+Benefits of Threads (multithreads) :
+
+Responsiveness
+An interactive application can keep running even if a part of it
+is blocked or performing a compute-intensive operations
+A server can accept requests while processing existing ones
+Resource sharing: code and data shared among threads
+Speed: cheap creation and context switching

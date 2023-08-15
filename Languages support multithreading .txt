@@ -1,0 +1,17 @@
+Languages support multithreading : 
+
+
+. Cilk
+. Cilk Plus
+. Cind
+. C#
+. Clojure
+. Concurrent Pascal
+. Emerald
+. Fork – programming language for the PRAM model.
+. Go
+. Java
+. LabVIEW
+. ParaSail
+. Rust[2]
+. SequenceL

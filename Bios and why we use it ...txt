@@ -1,0 +1,7 @@
+Bios : Basic  Input Output System is a program fixed and embedded on a device's microprocessor that helps to initialize hardware operations and manage the data flow to and from the operating system (OS) at the time of bootup
+
+BIOS enables computers to perform certain operations as soon as they are turned on. The principal job of a computer's BIOS is to govern the early stages of the startup process, ensuring that the operating system is correctly loaded into memory. BIOS is vital to the operation of most modern computers, and knowing some facts about it could help you troubleshoot issues with your machine.
+
+The first job of the BIOS after you switch your computer on is to perform the Power On Self Test. During the POST, the BIOS checks the computer's hardware in order to ensure that it is able to complete the startup process. If the POST is completed successfully, the system usually emits a beep. If the test fails, however, the system generally emits a series of beeps. You can use the number, duration and pattern of these beeps to identify the cause of the test failure.
+
+Also bios is searching for boot.ini on hard disck or optical drive or cd room or dvd to start up the windows (os) ..

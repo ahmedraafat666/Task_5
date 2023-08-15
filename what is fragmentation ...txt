@@ -1,0 +1,46 @@
+Fragmentation in os is divided in to external Fragmentation and inter nal Fragmentation
+
+External Fragmentation: 
+
+External fragmentation happens when there’s a sufficient quantity of area within the memory to satisfy the memory request of a method. However, the process’s memory request cannot be fulfilled because the memory offered is in a non-contiguous manner. Whether you apply a first-fit or best-fit memory allocation strategy it’ll cause external fragmentation. 
+
+In external fragmentation, variable-sized memory blocks square measure appointed to the method.
+
+External fragmentation happens when the method or process is removed.
+
+The solution to external fragmentation is compaction and paging.
+
+External fragmentation occurs when memory is divided into variable size partitions based on the size of processes.
+
+
+The unused spaces formed between non-contiguous memory fragments are too small to serve a new process, which is called External fragmentation.
+
+
+External fragmentation occurs with segmentation and dynamic partitioning. 
+It occurs on the allocation of a process to a partition greater which is exactly the same memory space as it is required.
+
+It occurs in best fit and first fit memory allocation method.
+
+
+===================================================================
+
+
+Internal Fragmentation: 
+
+Internal fragmentation happens when the memory is split into mounted-sized blocks. Whenever a method is requested for the memory, the mounted-sized block is allotted to the method. In the case where the memory allotted to the method is somewhat larger than the memory requested, then the difference between allotted and requested memory is called internal fragmentation. We fixed the sizes of the memory blocks, which has caused this issue. If we use dynamic partitioning to allot space to the process, this issue can be solved.
+
+In internal fragmentation fixed-sized memory, blocks square measure appointed to process.	
+
+Internal fragmentation happens when the method or process is smaller than the memory.	
+
+The solution of internal fragmentation is the best-fit block.	
+
+Internal fragmentation occurs when memory is divided into fixed-sized partitions.	
+
+The difference between memory allocated and required space or memory is called Internal fragmentation.	
+
+Internal fragmentation occurs with paging and fixed partitioning. 	
+
+It occurs on the allocation of a process to a partition greater than the process’s requirement. The leftover space causes degradation system performance.	
+
+It occurs in worst fit memory allocation method. 	

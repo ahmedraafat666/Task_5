@@ -1,0 +1,43 @@
+Difference between Unix and Linux : 
+
+Linux : 
+
+1. Linux is an open-source operating system. This OS is supported on several computer platforms and includes multiple software features that handle computer resources, and allow you to do tasks.
+
+2. This operating system was launched by Linus Torvalds at the University of Helsinki in 1991.
+
+
+3. It is available in multiple languages.
+
+4. It is monolithic.
+
+5. C and other programming languages.
+
+6. Linux is free and its corporate support is available at a price.
+
+7. Linux provides higher security.
+
+8. Some examples of Linux are: Fedora, Debian, Red Hat, Ubuntu, Android.
+
+9. It is used in several systems like desktop, smartphones, mainframes and servers.
+
+
+Unix :
+
+1. Unix is a powerful and multitasking operating system that behaves like a bridge between the user and the computer.
+
+2. This operating system was launched in 1960 and released by AT&T Bell Labs.
+
+3. It is available in English.
+
+4. It can be microkernel, monolithic, and hybrid.
+
+5. C and assembly language.
+
+6. Unix is not totally free. There are some Unix versions that are free, other than that UNIX is expensive.
+
+7. Unix is also highly secured.
+
+8. Some examples of unix are IBM AIX, Darwin, Solaris, HP-UX, macOS X.
+
+9. It also supports less than Linux.
